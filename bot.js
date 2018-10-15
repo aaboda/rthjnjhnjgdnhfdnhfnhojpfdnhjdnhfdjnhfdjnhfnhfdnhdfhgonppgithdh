@@ -9,7 +9,7 @@ const fetchVideoInfo = require('youtube-info');
 
 const yt_api_key = "AIzaSyDeoIH0u1e72AtfpwSKKOSy3IPp2UHzqi4";
 const prefix = '3';
-const discord_token = "";
+const discord_token = "NDk1NDA2NDYxOTUwNzU0ODE4.DppM-A.DVVXmolFjn5agy2IsDsyZP_KXJM";
 client.login(discord_token);
 client.on('ready', function() {
     console.log(`i am ready ${client.user.username}`);
